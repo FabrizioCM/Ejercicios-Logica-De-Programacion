@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+.text{
+    color: aliceblue;
+    text-align: center ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-content: center;
+}
+
+#Fibonacci{
+    color: aliceblue;
+    text-align: center ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-content: center;
+}
